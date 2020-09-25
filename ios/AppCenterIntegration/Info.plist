@@ -53,5 +53,8 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+      <key>AppSecret</key>
+      <string>e7918c37-8dff-4715-a7ea-5f4e3d803f90</string>
 </dict>
 </plist>
